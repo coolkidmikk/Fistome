@@ -22,7 +22,7 @@ A customizable Extension- smooth, minimalistic, clean and with some built-in fea
 
 ## Usage
 
-- Click the pencil icon (✏️) in the bottom right to toggle edit mode
+- Click the pencil icon in the bottom right to toggle edit mode
 - In edit mode, hover over icons to see edit/remove options
 - Click the plus icon (+) in the bottom left to add a new icon
 - Click the pattern icon to toggle between themes
