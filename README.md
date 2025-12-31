@@ -11,13 +11,16 @@ A customizable Extension- smooth, minimalistic, clean and with some built-in fea
 
 ## Installation
 
+- Here [Fistome](https://addons.mozilla.org/en-US/firefox/addon/fistome)
+
 ### Temporary Installation (for testing)
 
+- Git clone Fistome
 1. Open Firefox
 2. Navigate to `about:debugging`
 3. Click "This Firefox" in the left sidebar
 4. Click "Load Temporary Add-on..."
-5. Navigate to this folder and select `manifest.json`
+5. Navigate to the Fistome folder and select `manifest.json`
 
 
 ## Usage
