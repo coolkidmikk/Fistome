@@ -2,6 +2,8 @@
 
 A customizable Extension- smooth, minimalistic, clean and with some built-in feature, only for Firefox-based browser
 
+https://github.com/user-attachments/assets/6526032c-f937-439d-a39a-89a8ac38ebd0
+
 ## Features
 
 - Customizable icons and links
