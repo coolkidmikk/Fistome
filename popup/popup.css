@@ -38,9 +38,7 @@ body {
   transition: transform 0.3s ease;
 }
 
-.logo-container:hover {
-  transform: scale(1.05);
-}
+
 
 .logo {
   width: 80px;
