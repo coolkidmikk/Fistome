@@ -2,7 +2,7 @@
 
 A customizable Extension- smooth, minimalistic, clean and with some built-in feature, only for Firefox-based browser
 
-https://github.com/user-attachments/assets/6526032c-f937-439d-a39a-89a8ac38ebd0
+https://github.com/user-attachments/assets/e037d0ce-4dfb-442c-aabc-8795ac1e9eef
 
 ## Features
 
